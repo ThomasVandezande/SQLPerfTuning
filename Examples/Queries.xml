@@ -1,0 +1,4 @@
+<queries>
+  <query>select * from sales.customers</query>
+  <query>select * from sales.invoices</query>
+</queries>
